@@ -1,2 +1,2 @@
-This project is an interactive **User Feedback Form** built using HTML, CSS, and JavaScript.  
+This project is an interactive **User Feedback Form** built using HTML, CSS and JavaScript.  
 It demonstrates the use of **DOM manipulation, event listeners, event bubbling and event delegation** to capture and respond to user input in real time.
