@@ -1,11 +1,13 @@
-body {
+body 
+{
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
   margin: 0;
   padding: 30px;
 }
 
-#page {
+#page 
+{
   max-width: 700px;
   margin: auto;
   background-color: white;
@@ -14,31 +16,36 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2 {
+h1, h2 
+{
   text-align: center;
   color: #1b4332;
 }
 
-form {
+form 
+{
   display: flex;
   flex-direction: column;
 }
 
-label {
+label 
+{
   margin-top: 15px;
   margin-bottom: 5px;
   font-weight: bold;
 }
 
 input,
-textarea {
+textarea 
+{
   padding: 10px;
   font-size: 16px;
   border: 1px solid #bbb;
   border-radius: 5px;
 }
 
-button {
+button 
+{
   margin-top: 20px;
   padding: 12px;
   font-size: 16px;
@@ -49,23 +56,27 @@ button {
   cursor: pointer;
 }
 
-button:hover {
+button:hover 
+{
   background-color: #2d6a4f;
 }
 
-.error {
+.error 
+{
   color: red;
   font-size: 14px;
   margin: 5px 0 0 0;
 }
 
-#charCount {
+#charCount 
+{
   margin-top: 8px;
   color: #333;
   font-size: 14px;
 }
 
-#tooltip {
+#tooltip 
+{
   position: absolute;
   background-color: black;
   color: white;
@@ -75,7 +86,8 @@ button:hover {
   font-size: 13px;
 }
 
-.entry {
+.entry 
+{
   background-color: #e9f5ec;
   border-left: 5px solid #2d6a4f;
   padding: 12px;
